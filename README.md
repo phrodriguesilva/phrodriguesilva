@@ -6,4 +6,4 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 ### Link of facebook: https://facebook.com/phrodriguesilva
 ### Link of discord: https://discordapp.com/users/210054119438680064
 ### Link of linkedin: https://www.linkedin.com/in/pedro-henrique-119a51150/
-### Get in touch? wave
+### Get in touch?
