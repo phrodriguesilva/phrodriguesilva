@@ -6,6 +6,9 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
 
+### Languages and Tools:
+
+[<img align="left" alt="Flutter" width="128px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fflutter-2038877&psig=AOvVaw1Uz8gHgWoKDIfzGDKeM8vc&ust=1622144473790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCMpJuN6PACFQAAAAAdAAAAABAO" />]
 
 
 
