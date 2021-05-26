@@ -4,8 +4,12 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Here is some interesting information
 ### Link of facebook: https://facebook.com/phrodriguesilva
 ### Link of discord: https://discordapp.com/users/210054119438680064
 ### Link of linkedin: https://www.linkedin.com/in/pedro-henrique-119a51150/
 ### Get in touch?
+
