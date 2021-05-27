@@ -15,19 +15,11 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 ### Languages and Tools:
 
-<p><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=whiteg" /></p>
-<p><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> </p>
-<p><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </p>
-<p><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </p>
-<p><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> </p>
-<p><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </p>
-<p><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> </p>
-<p><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </p>
-<p><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /></p>
-
-	
+<img align="left" height="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
+<img align="left" height="58px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
+<img align="left" height="58px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Google_Cloud_Console_logo.png" />
+<img align="left" height="58px" src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" />
+<img align="left" height="64px" src="https://i.pinimg.com/originals/b9/51/30/b95130af5e8402b9b7124c6cf6ba6d5d.png" />
 
 <br />
 <br />
