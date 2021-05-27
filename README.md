@@ -1,9 +1,14 @@
 ### Who I am
 
+<img align="left" alt="firebase" height="62x" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
+  <img align="left" alt="firebase" height="58px" src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo.png" />
+  
 Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area, and recently I made the decision to be a mobile developer. I use Flutter and the Dart language as my main language, and my goal is to learn more and participate in larger projects.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 ### Connect with me:
 [<img align="left" alt="phrodriguesilva | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="phrodriguesilva | WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>][whatsapp]
@@ -17,8 +22,6 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 <div style="align-content: center; display: flex;">
   <img align="left" height="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-  <img align="left" alt="firebase" height="62x" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
-  <img align="left" alt="firebase" height="58px" src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo.png" />
 <img align="left" height="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
 <img align="left" height="58px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
 <img align="left" alt="firebase" height="62px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEifhnvmATXgQ/company-logo_200_200/0/1573129789566?e=2159024400&v=beta&t=eOSy-7YHqy-5ti5f6OV86zgFUw74C-bdQL2ckJ4DGF0" />
