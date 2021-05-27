@@ -20,7 +20,7 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 <img align="left" height="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
 <img align="left" height="58px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
 <img align="left" alt="firebase" height="62px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEifhnvmATXgQ/company-logo_200_200/0/1573129789566?e=2159024400&v=beta&t=eOSy-7YHqy-5ti5f6OV86zgFUw74C-bdQL2ckJ4DGF0" />
-<img align="left" alt="firebase" height="62x" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png />
+<img align="left" alt="firebase" height="62x" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
   <img align="left" alt="firebase" height="58px" src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo.png" />
 
 </div>
