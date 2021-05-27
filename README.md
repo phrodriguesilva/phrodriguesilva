@@ -3,7 +3,7 @@
 <img align="left" alt="firebase" height="62x" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
   <img align="left" alt="firebase" height="58px" src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo.png" />
   
-Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area, and recently I made the decision to be a mobile developer. I use Flutter and the Dart language as my main language, and my goal is to learn more and participate in larger projects.
+Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area, and recently I made the decision to be a mobile developer. I use Flutter and the Dart language as my main language, and my goal is to learn more
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
