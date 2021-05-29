@@ -20,12 +20,11 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 ### Languages and Tools:
 
-<img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/256px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" />
-<img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
-<img align="left" height="50px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
-<img align="left" height="50px" src="https://cdn.zeplin.io/assets/lp/img/icZeplin.svg" />
-<img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-<img align="left" height="50px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
+<img align="left" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
+<img align="left" height="60px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
+<img align="left" height="60px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
+
 
 <br />
 <br />
