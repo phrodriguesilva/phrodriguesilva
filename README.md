@@ -20,10 +20,11 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 ### Languages and Tools:
 
-<img align="left" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" height="60px" src="https://i.ibb.co/Fz3ZF7n/intellij-1.pngttps://ibb.co/2dhVTK5"/>
 <img align="left" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
 <img align="left" height="60px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
 <img align="left" height="60px" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" />
+<img align="left" height="60px" src="https://tacta.io/wp-content/uploads/2018/10/Gradle.png"/>
 
 
 <br />
