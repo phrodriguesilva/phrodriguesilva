@@ -1,9 +1,6 @@
 ### Who I am
-
-<img align="left" alt="firebase" height="62x" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
-  <img align="left" alt="firebase" height="58px" src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo.png" />
-  
-Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area, and recently I made the decision to be a mobile developer. I use Flutter and the Dart language as my main language, and my goal is to learn more
+<img align="left" height="68px" src="https://img.icons8.com/ios/500/android-os.png"/>
+<img align="left" height="68px" src="https://img.icons8.com/ios/500/mac-os--v1.png"/> Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area, and recently I made the decision to be a mobile developer. I use Flutter and the Dart language as my main language, and my goal is to learn more
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,10 +17,9 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 ### Languages and Tools:
 
-<img align="left" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
-<img align="left" height="40px" src="https://ideias.avancadas.info/images/Apple-Swift.png"/>
-<img align="left" height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/sketch-2-logo-png-transparent.png"/>
-
+<img align="left" height="68px" src="https://img.icons8.com/ios/500/flutter.png"/>
+<img align="left" height="68px" src="https://img.icons8.com/ios/452/swift--v1.png"/>
+<img align="left" height="68px" src="https://www.shareicon.net/data/512x512/2016/06/19/603704_db_512x512.png"/>
 
 <br />
 <br />
