@@ -20,14 +20,9 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 ### Languages and Tools:
 
+<img align="left" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
 
-<img align="left" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>
-<img align="left" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png"/>
-<img align="left" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
-<img align="left" height="40px" src="https://teamextension.com.br/dist/img/skills/flutter.png" />
-<img align="left" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png"/>
-<img align="left" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
-
+<img align="left" height="40px" src="https://r7.pngwing.com/path/262/885/125/swift-programming-language-apple-natural-ecological-food-logo-templates-download-aa61aaf610273a65c1bca5abe82049d7.png" />
 
 <br />
 <br />
