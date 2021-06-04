@@ -21,8 +21,9 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 ### Languages and Tools:
 
 <img align="left" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
+<img align="left" height="40px" src="https://ideias.avancadas.info/images/Apple-Swift.png"/>
+<img align="left" height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/sketch-2-logo-png-transparent.png"/>
 
-<img align="left" height="40px" src="https://r7.pngwing.com/path/262/885/125/swift-programming-language-apple-natural-ecological-food-logo-templates-download-aa61aaf610273a65c1bca5abe82049d7.png" />
 
 <br />
 <br />
