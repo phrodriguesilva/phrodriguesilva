@@ -18,7 +18,7 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 
 <img align="left" height="68px" src="https://i.ibb.co/R2qrqVG/T5fb-Wxt-N22-1.png"/>
 <img align="left" height="68px" src="https://miro.medium.com/max/400/1*80Qi-IsIfixJAfFCUzMD2g.png"/>
-<img align="left" height="68px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/AppCode_Icon.png"/>
+<img align="left" height="68px" src="https://macin.files.wordpress.com/2015/01/sqlitestudio-3-icon.png"/>
 
 
 <br />
