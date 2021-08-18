@@ -1,6 +1,5 @@
 ### Who I am
-Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area, and recently I made the decision to be a mobile developer. I use Kotlin and Swift, and my goal is to learn more
-
+Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,10 +14,6 @@ Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science stu
 <br />
 
 ### Languages and Tools:
-
-<img align="left" height="68px" src="https://i.ibb.co/R2qrqVG/T5fb-Wxt-N22-1.png"/>
-<img align="left" height="68px" src="https://miro.medium.com/max/400/1*80Qi-IsIfixJAfFCUzMD2g.png"/>
-<img align="left" height="68px" src="https://macin.files.wordpress.com/2015/01/sqlitestudio-3-icon.png"/>
 
 
 <br />
