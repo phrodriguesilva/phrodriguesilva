@@ -1,5 +1,5 @@
 ### Who I am
-Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC. In the last few years I developed some projects in the area.
+Hello, my name is Pedro Henrique Rodrigues da Silva, I am a Computer Science student at PUC and a Enthusiast in Data Security & Computer Forensics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrodriguesilva)](https://github.com/anuraghazra/github-readme-stats)
 
